@@ -22,7 +22,7 @@ footer {
 #sticky {
     position:fixed;
     top:0;
-    background: #ffffff;
+    background: mediumvioletred;
     background: rgba(238,238,238,0.7);
     width: 100%;
 }
@@ -47,7 +47,7 @@ nav ul li {
 
 nav ul li a {
     padding: .5em 1em;
-    background:indianred;
+    background:orangered;
     border-radius: 15px;
 }
 
