@@ -15,14 +15,14 @@ footer {
 }
 
 #wrapper {
-    background:#ffffff;
+    background:#eeeeee;
     padding: 1em 0;
 }
 
 #sticky {
     position:fixed;
     top:0;
-    background: #eeeeee;
+    background: #ffffff;
     background: rgba(238,238,238,0.7);
     width: 100%;
 }
@@ -47,12 +47,12 @@ nav ul li {
 
 nav ul li a {
     padding: .5em 1em;
-    background:mediumblue;
+    background:indianred;
     border-radius: 15px;
 }
 
 nav ul li a {
-    background: blueviolet;
+    background: mediumpurple;
 }
 
 /* Misc.
